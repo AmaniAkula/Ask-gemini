@@ -6,7 +6,7 @@
 https://fonts.google.com/specimen/Outfit
 
 # Gemini Api
-https://aistudio.google.com/prompts/new_chat
+https://aistudio.google.com
  select API
  # API KEY 
  # npm install @google/generative-ai
