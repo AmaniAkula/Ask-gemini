@@ -72,7 +72,7 @@ useEffect(() => {
         {!showResult ? <>
           <div className="greet">
             <p><span>Hello, Dev.</span></p>
-            <p>How can i hep you today</p>
+            <p>How can i help you today</p>
           </div>
           <div className="cards">
             <div className="card">
